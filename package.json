@@ -1,0 +1,27 @@
+{
+  "name": "webpack-play",
+  "version": "1.0.0",
+  "description": "A minimal playground using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbabaioff/webpack-play.git"
+  },
+  "keywords": [
+    "webapck",
+    "playground"
+  ],
+  "author": "David Babaioff <davidbabaioff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbabaioff/webpack-play/issues"
+  },
+  "homepage": "https://github.com/dbabaioff/webpack-play#readme",
+  "devDependencies": {
+    "webpack": "1.12.9",
+    "webpack-dev-server": "1.14.0"
+  }
+}
