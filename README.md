@@ -1,2 +1,2 @@
-# webpack-play
-A minimal playground using webpack
+# webpack-demo
+Minimal demo showing how to use webpack
